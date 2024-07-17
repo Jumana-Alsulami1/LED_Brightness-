@@ -1,6 +1,6 @@
 # LED_Brightness-
 
-In this task, we controlled the brightness of the LED using a potentiometer, when you turn the knob the brightness of the led will change.
+In this task, we controlled the brightness of the LED using a potentiometer, when you turn the knob the brightness of the LED will change.
 
 Connect the Arduino circuit :
 
