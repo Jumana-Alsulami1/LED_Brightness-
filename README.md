@@ -18,7 +18,7 @@ LED:
 
 2- The other side of the resistor with the GND in the Arduino board.
 
-3- The longer leg of the LED with Digital pin 6 in the Arduino board.
+3- The longer leg of the LED with digital pin 6 in the Arduino board.
 
 Connect the Arduino board to the computer with the USB and upload the code.
 
